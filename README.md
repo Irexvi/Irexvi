@@ -1,4 +1,4 @@
-Hola 👋
+Sobre mí 👋
 - 🎓 Ingeniero electromecánico.
 - 🌱 Programador en Python y C/C++.
 - 🍰 InfluxDB y Grafana.
