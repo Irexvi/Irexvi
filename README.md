@@ -1,6 +1,6 @@
-Sobre mí 👋
-- 🎓 Ingeniero electromecánico.
-- 🌱 Programador en Python y C/C++.
-- 🍰 InfluxDB y Grafana.
-- 👀 Analista de Software IoT.
+About me👋
+- 🎓 Electromechanical Engineer.
+- 🌱 Programmer in Python and C/C++.
+- 🍰 InfluxDB and Grafana.
+- 👀 IoT Software Analyst.
 - 📫 [LinkedIn](https://www.linkedin.com/in/garodriguezv/)
