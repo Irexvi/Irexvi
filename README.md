@@ -5,7 +5,7 @@ About me👋
 - Azure Services: Cosmos DB, Azure Cognitive Search.
 - IoT Communication Protocols: MQTT, WiFi, LoRaWAN.
 - PLC Communication Protocols: Modbus, I2C, SPI.
-- Data visualization tools: Grafana, Amcharts.
+- Data visualization tools and libraries: Grafana, Amcharts.
 - Development Environment: PyCharm, Arduino,  Visual Studio Code, JupyterLab,  Eclipse.
 - Frameworks: Django, Flask.
 - Operating Systems: Linux, Mac OS, Windows.
