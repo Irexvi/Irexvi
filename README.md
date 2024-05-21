@@ -1,6 +1,6 @@
 # About Me 👋
 
-I am an Electromechanical Engineer with a specialization in IoT, Automation, and Data Analysis. I am passionate about leveraging technology to solve complex problems and drive innovation.
+I code with my qualities and faults.
 
 ## Skills
 
