@@ -5,11 +5,11 @@ I code with my qualities and faults.
 ## Skills
 
 ### Tech Stack
-- Python 3, C++/C, C#, Bash/Shell, HTML/CSS, MATLAB, Java, JavaScript
+- Python 3, C++/C, C#, Bash/Shell, HTML/CSS, JavaScript, Typescript
 - InfluxDB, SQL, MySQL, MQTT, WiFi, LoRaWAN, Modbus, I2C, SPI, BACNET
-- Automation Anywhere, Grafana, Visual Studio Code, Visual Studio, Arduino, PyCharm
-- IPython/Jupyter, Eclipse, Linux, Mac OS, Windows, Cosmos DB, Cognitive Search
-- Django, Flask, Next.js, Node.js, React
+- Automation Anywhere, Grafana, Visual Studio Code, PlatformIO, Arduino
+- Linux, Mac OS, Window
+- Django, Flask, Next.js, Node.js, React, Tailwind CSS
 
 ### Languages
 - Spanish (Native)
