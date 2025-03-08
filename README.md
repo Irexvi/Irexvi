@@ -5,7 +5,7 @@ I code with my qualities and faults.
 ## Skills
 
 ### Tech Stack
-- Python 3, C++/C, C#, Bash/Shell, HTML/CSS, JavaScript, Typescript
+- Python 3, C++, Bash/Shell, HTML/CSS, Typescript
 - InfluxDB, SQL, MySQL, MQTT, WiFi, LoRaWAN, Modbus, I2C, SPI, BACNET
 - Automation Anywhere, Grafana, Visual Studio Code, PlatformIO, Arduino
 - Linux, Mac OS, Window
